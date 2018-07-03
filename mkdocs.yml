@@ -1,0 +1,29 @@
+site_name: Moxa IIoT Guide [Work in Progress]
+theme:
+  name: 'material'
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+  feature:
+    tabs: true
+
+repo_name: 'MOXA-ISD/iiot-guide'
+repo_url: 'https://github.com/MOXA-ISD/iiot-guide'
+
+pages:
+- Home: 'index.md'
+- Installfest:
+  - ThingsPro: 'installfest/index.md'
+  - 'Install on  UC-8100 Series': 'installfest/uc-8100-series/index.md'
+  - 'Install on MC-1100': 'installfest/index.md'
+- IT Daily Life:
+  - 'it-daily-life/index.md'
+- OT Integration:
+  - 'ot-integration/index.md'
+- Into the Wild:
+  - 'into-the-wild/index.md'
+- Dev, Dev, Dev:
+  - 'dev-dev-dev/index.md'
+- About:
+  - 'License': 'about/license.md'
+  - 'How to contribute': 'about/how-to-contribute.md'
