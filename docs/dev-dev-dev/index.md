@@ -10,3 +10,5 @@
         - Avg/Min/Max/etc.
 - Node-Red
     - MQTT + Modbus integration (Zack, In-progress)
+- New Bullet 
+    - New Description 
